@@ -19,6 +19,9 @@ Esta é uma Landing Page moderna, responsiva e acolhedora desenvolvida para uma 
 
 ## 🛠️ Como Visualizar o Projeto
 
+Acesse a versão live em: [https://fonodracamila.netlify.app/](https://fonodracamila.netlify.app/)
+
+Ou para rodar localmente:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/JoaoBrunoLuz/fonodracamila.git
