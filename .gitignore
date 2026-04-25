@@ -1,6 +1,35 @@
-.DS_Store
-Thumbs.db
+# Dependencies
 node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+build/
+dist/
+out/
+
+# Misc
+.DS_Store
+*.pem
+Thumbs.db
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
 .vscode/
 .idea/
-*.log
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/
+temp/
