@@ -32,5 +32,4 @@ Ou para rodar localmente:
 
 O projeto utiliza uma paleta de cores baseada em tons de azul claro (`#e0f2fe`) e branco, com animações suaves de entrada para uma experiência de usuário (UX) fluida.
 
----
-Desenvolvido com ❤️ por Antigravity.
+
